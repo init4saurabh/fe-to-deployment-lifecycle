@@ -8,7 +8,7 @@ function App() {
     <>
   <h1>Dev and Deployment lifecycle</h1>
   <Button onClick={() => {alert("Button clicked!")}} />
-    <p>new feature added !!</p>
+    <p>new feature added !</p>
     </>
   )
 }
